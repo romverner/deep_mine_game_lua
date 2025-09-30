@@ -3,3 +3,7 @@ Having made a prototype in Godot, I recreated the basic mechanics in Lua. This p
 Original Godot version can be found [here](https://github.com/romverner/deep_mine_game).
 
 To run, use `love deep_mine_game_lua` or drag the repository folder over the love application on your machine.
+
+
+## Controls
+Use WASD to move around, SPACE to jump, and shift to "mine" blocks.
