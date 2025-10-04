@@ -7,3 +7,5 @@ To run, use `love deep_mine_game_lua` or drag the repository folder over the lov
 
 ## Controls
 Use WASD to move around, SPACE to jump, and shift to "mine" blocks.
+
+!(til)[./output.gif]
